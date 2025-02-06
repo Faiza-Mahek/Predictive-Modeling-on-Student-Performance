@@ -83,8 +83,6 @@ We explore algorithms like **decision trees**, **logistic regression**, and **ra
 ### PPT Link
 > **[Click Here to View the Presentation Slides](https://www.canva.com/design/DAGZkZWrXv8/afX0_FZBCKRUfkkrk5dobA/edit)**
 
-*(Replace the above link with your actual presentation URL once available.)*
-
 ---
 
 ## References
